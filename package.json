@@ -1,0 +1,15 @@
+{
+  "name": "heroku-pacman",
+  "version": "1.0.0",
+  "description": "Simple Pac-Man clone to deploy on Heroku",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
